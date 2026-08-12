@@ -24,6 +24,6 @@ Implementar o motor de inferência **vLLM** como servidor primário de alta vaz�
 
 ---
 
-## ✅ Critérios of Aceitação & Entrega
+## ✅ Critérios de Aceitação & Entrega
 - [ ] Servidor vLLM rodando e respondendo na porta `8000`.
 - [ ] Streaming de tokens token-a-token funcionando com a SDK da OpenAI em CPython.
